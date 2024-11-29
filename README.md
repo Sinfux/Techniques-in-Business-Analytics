@@ -18,19 +18,18 @@ This repository contains projects and assignments completed during the **Techniq
 ## Repository Structure  
 
 📂 Customer Trends and Loyalty Analysis
-├── Data/
-├── Code/
-└── Report/
+├── Data
+├── Code
+└── Report
 
 📂 Koala Conservation: A Data-Driven Approach
-├── Data/
-├── Code/
-└── Report/
+├── Data
+├── Code
+└── Report
 
 📂 Customer and Sales Analytics for LuminaTech Lighting
-├── Data/
-├── Code/
-└── Report/
+├── Code
+├── Report
 
 Each project folder includes:  
 - **Data**: Raw and processed datasets.  
